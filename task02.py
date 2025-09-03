@@ -7,6 +7,7 @@ class Student:
             age (int): _description_
             course (int): _description_
         """
+        
         self.name = name
         self.age = age
         self.course = course

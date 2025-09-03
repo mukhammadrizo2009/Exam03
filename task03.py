@@ -6,6 +6,7 @@ class Animal:
             name (str): _description_
             voise (str): _description_
         """
+        
         self.name = name
         
 class Dog(Animal):

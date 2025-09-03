@@ -1,5 +1,6 @@
 class Flyer:
      def __init__(self , name: str):
+         
          """_summary_
 
          Args:
@@ -13,6 +14,7 @@ class Flyer:
 
 class Swimmer:
     def __init__(self , name: str):
+        
         """_summary_
 
         Args:

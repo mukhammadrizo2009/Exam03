@@ -17,5 +17,6 @@ class Car:
         """
         print(f"{self.brand} {self.model} ({self.year})")
         
+        
 car = Car("BMW" , "X5" , 2020)
 car.get_info()
